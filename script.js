@@ -1,6 +1,6 @@
 // Typing Effect
 const typingText = document.querySelector('.typing-text');
-const phrases = ['Web Developer.', 'UI/UX Enthusiast.', 'Problem Solver.'];
+const phrases = ['Appian Certified Professional.', 'Low-code Specialist.', 'BPM Consultant.'];
 let phraseIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
